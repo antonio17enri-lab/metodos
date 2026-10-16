@@ -1,0 +1,6 @@
+{
+  "name": "Methodox",
+  "description": "Plataforma inteligente de ingeniería de métodos, estudio de tiempos y optimización de productividad industrial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
